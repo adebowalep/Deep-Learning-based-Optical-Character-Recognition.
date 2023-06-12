@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Deep OCR README</title>
 </head>
 <body>
     <h1>Deep OCR</h1>
